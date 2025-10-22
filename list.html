@@ -1,0 +1,13 @@
+
+{{ define "main" }}
+  <aside class="toc">
+    <div class="toc-title">Contents</div>
+    {{ if .TableOfContents }}
+      <nav class="toc-nav">{{ .TableOfContents }}</nav>
+    {{ end }}
+  </aside>
+  <article>
+    {{ .Content }}
+    <div class="footer">© {{ now.Format "2006" }} {{ .Site.Title }}</div>
+  </article>
+{{ end }}
