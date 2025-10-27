@@ -1,7 +1,7 @@
 ---
 title: "On Taste"
 subtitle: "How aesthetics work and why they matter for healthy societies."
-description: "An essay exploring how we develop and refine our aesthetic preferences."
+description: "How aesthetics work and why they matter for healthy societies."
 author: "Pierre Vandenberghe"
 toc: true
 ---
