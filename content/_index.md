@@ -8,11 +8,11 @@ toc: true
 
 "Why does everything seem so ugly nowadays?" "When did we stop having good taste?" From AI slop to endless movie sequels, sweatpants, and grey concrete buildings, a thought seems to be crystallizing in many circles: our collective aesthetic environment is in decline.
 
-But is there any substance to this claim? For example, is popular music **really** getting worse? Is “back in my days, we used to have real music on the radio” just a cliché from your grandpa, or an actual phenomenon?
+But is there any substance to this claim? For example, is popular music **really** getting worse? Is “back in my days, we used to have real music on the radio” just boomer nostalgia, or an actual phenomenon?
 
-To explore this, we can turn towards the *Billboard* Year-End Hot 100 (the chart that ranks the best-performing singles of the United States), which gives us the most popular songs in any given year. That’s the “popular” aspect. 
+To explore this, we can turn towards the *Billboard* Year-End Hot 100, the chart that ranks the best-performing singles of the United States. That’s the “popular” aspect. 
 
-I used [Rate Your Music](https://rateyourmusic.com/) (RYM) as a proxy for "artistic value". RYM is a sprawling, long-running database and community where listeners rate and review albums, singles, and even films and video games. Crucially, the site actively moderates ratings, removes obvious spam, and ensures the averages reflect a serious consensus. For cultural data, it’s about as close to a reliable crowd-sourced record of taste as we have.
+I used **[Rate Your Music](https://rateyourmusic.com/)** (RYM) as a proxy for "artistic value". RYM is a sprawling, long-running database and community where listeners rate and review albums, singles, and even films and video games. Crucially, the site actively moderates ratings, removes obvious spam, and ensures the averages reflect a serious consensus. For cultural data, it’s about as close to a reliable crowd-sourced record of taste as we have.
 
 So, I took the top 5 most popular songs from the *Billboard* Hot 100 each year from 1960 to 2024 and looked up their score on Rate Your Music. This gave me an average rating for each year.
 
@@ -31,7 +31,7 @@ Here is a little table comparing 1966, the greatest year on record, with 2017, t
 | The Monkees \- *Last Train to Clarksville* | 3.85 | Kendrick Lamar \- *Humble* | 3.36 |
 | Four Tops \- *Reach Out I'll Be There* | 4.14 | The Chainsmokers & Coldplay \- *Something Just Like This* | 1.65 |
 
-Yes, this is only the top 5 (I didn’t have the resources to go beyond). Yes, you can be finicky about the sampling bias \- maybe everyone on the website is old and hates new music\! But according to [this website](https://www.similarweb.com/website/rateyourmusic.com/#demographics) (and my own user experience), the website demographics is primarily in the 18-24 range. They also don’t seem to hate pop music: just take a look at 2020, which has a very high average score (3.48, on par with the 1970s), and whose featuring artists are popstars like The Weeknd, Post Malone, Roddy Rich, or Dua Lipa.
+Yes, it’s only the top five songs (I didn’t have the resources to go further). And yes, you can nitpick the sample: maybe everyone on RYM is old and hates new music. But [the data](https://www.similarweb.com/website/rateyourmusic.com/#demographics) (and my own experience on the site) suggest otherwise. The majority of users are in the 18–24 range, and they clearly don’t hate pop. Take 2020, for instance: its average score is 3.48 (right up there with the 1970s) and its biggest hits came from The Weeknd, Post Malone, Roddy Ricch, and Dua Lipa.
 
 Ok, maybe you don’t still trust Rate Your Music, that’s fine. There are plenty of other signs.
 
@@ -67,7 +67,7 @@ Ok, maybe you don’t still trust Rate Your Music, that’s fine. There are plen
 	<img src="/images/alexander.jpg" alt="Scott Alexander collage" class="img-large">
 </figure>
 
-Where are all the colors, the fun, the beauty? Are we condemned to a beige, black, and white, formulaic, homogenized world? I will argue that beauty is not a luxury, but a fundamental pillar of a healthy mind and a flourishing society. **Beauty provides the deep meaning that makes life truly worth living, and we should care about it.**
+Where are all the colors, the fun, the beauty? Are we condemned to a grey, formulaic, homogenized world? I will argue that beauty is not a luxury, but a fundamental pillar of a healthy mind and a flourishing society. **Beauty provides the deep meaning that makes life truly worth living, and we should care about it.**
 
 So, what can we do? First, we need to clear one major objection: the one that taste is purely subjective. Of course, there is some truth to it (we obviously don’t all like the same things), but it’s a rather *unhelpful* statement. Taste has a mechanism, with roots in evolutionary biology and cognitive science. As a species we tend to rally around things that we find more beautiful/pleasant than others. And this is a good place to start if we want to know how to make more of those.
 
@@ -137,17 +137,19 @@ Neuroscience shows that symmetry is processed efficiently by the visual system. 
 
 The fact that symmetry is immediately parsed by our low-level perception suggests it provides a kind of neural fluency or ease that is experienced as pleasing. Brain imaging [(Sasaki et al. 2005\)](https://www.pnas.org/doi/10.1073/pnas.0500319102) confirms that viewing symmetrical visuals leads to more robust activation in the lateral occipital cortex and other visual areas associated with shape processing. In other words, symmetry makes the visual cortex’s job easier, and this processing fluency may translate into a “positive” aesthetic response. But symmetry’s role in taste might go even deeper than perceptual ease.
 
-[*Principia Qualia*](https://opentheory.net/PrincipiaQualia.pdf) (2016) is a groundbreaking work by researcher and philosopher Mike Johnson. In it, Johnson argues that every moment of experience (qualia) can be represented as a mathematical object (a view known as *qualia structuralism*).
+[***Principia Qualia***](https://opentheory.net/PrincipiaQualia.pdf) (2016) is a groundbreaking work by researcher and philosopher Mike Johnson. In it, Johnson argues that every moment of experience (qualia) can be represented as a mathematical object (a view known as *qualia structuralism*).
 
 A central concept in the book is **valence**, the felt quality of how good or bad an experience is. According to Johnson’s **Symmetry Theory of Valence** (sometimes mentioned as STV here), the more symmetrical the mathematical structure of a given experience, the more pleasant it feels. Symmetry not just in the world or in perception, but in the *shape of consciousness itself*.
 
-While we don’t know yet the exact mapping between brain activity and qualia, STV offers a likely hypothesis: **pleasant/symmetrical experiences come from more ordered brain activity, and unpleasant ones from disorder**. In other words, there may be a link between how organized our neural patterns are and how good a moment feels. When the brain falls into a smooth or balanced rhythm, the experience feels harmonious; when its activity turns chaotic, it feels unpleasant.
+While we don’t know yet the exact mapping between brain activity and qualia, STV offers a compelling hypothesis: **pleasant or "beautiful" experiences come from more ordered brain activity, and unpleasant ones from disorder**. In other words, there may be a direct link between how organized our neural patterns are and how good a moment feels. When the brain is in a smooth, coherent rhythm, the experience feels harmonious; when its activity turns chaotic, it feels tense or unpleasant.
 
-For example, research like [Bidelman and Krishnan (2009)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2804402/) shows that consonant musical intervals, which have simple frequency ratios, generate stronger and more phase-locked responses in the auditory nerve than dissonant ones. In other words, consonance literally triggers a more “orderly” neural signal.
+This idea is supported by music perception research. [Bidelman and Krishnan (2009)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2804402/), for instance, showed that consonant musical intervals (those with simple frequency ratios) produce stronger and more phase-locked responses in the auditory nerve than dissonant ones. In other words, consonance literally triggers a more “orderly” neural signal.
 
-In addition, pleasant music triggers dopamine release in the brain’s reward centers, particularly the striatum when a musical piece “peaks” into a satisfying harmony or melodic resolution ([Salimpoor et al, 2011](https://www.researchgate.net/publication/49739517_Anatomically_distinct_dopamine_release_during_anticipation_and_experience_of_peak_emotion_to_music); [Zatorre and Salimpoor, 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC3690607/)). 
+<figure>
+	{{< youtube 5KzVeRreTBs >}}
+</figure>
 
-In a paper from [Ball (2012](https://www.nature.com/articles/nature.2012.11791)) titled *“Why dissonant music strikes the wrong chord in the brain,”* he notes that listeners’ dislike of dissonance relates to the brain’s analysis of overlapping overtones. Clashing tones fail to form neat harmonic series that our auditory system can easily interpret, leading to reduced reward response.
+Pleasant music also activates the brain’s reward centers. For example, dopamine is released in the striatum when a musical piece “peaks” into a satisfying harmony or melodic resolution ([Salimpoor et al, 2011](https://www.researchgate.net/publication/49739517_Anatomically_distinct_dopamine_release_during_anticipation_and_experience_of_peak_emotion_to_music); [Zatorre and Salimpoor, 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC3690607/)). As [Ball (2012](https://www.nature.com/articles/nature.2012.11791)) notes in *Why Dissonant Music Strikes the Wrong Chord in the Brain*, our aversion to dissonance likely stems from the way overlapping overtones confuse the auditory system. When tones fail to form a neat harmonic series, the brain struggles to easily interpret them, and the experience feels less rewarding.
 
 Taken together, these findings align with the idea that **neural consonance \= pleasure**. Our biology favors stimuli that the brain can encode in an orderly way. It’s as if the brain rewards stimuli that make “sense” to it at a fundamental level. We experience the alignment of neurons in coordinated patterns as aesthetically satisfying.
 
