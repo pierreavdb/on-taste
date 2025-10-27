@@ -1,13 +1,23 @@
-
 {{ define "main" }}
+<main>
+  <header class="article-header">
+    <h1 class="article-title">{{ .Title }}</h1>
+    {{ with .Params.subtitle }}
+      <p class="article-subtitle">{{ . }}</p>
+    {{ end }}
+  </header>
+
   <aside class="toc">
     <div class="toc-title">Contents</div>
-    {{ if .TableOfContents }}
-      <nav class="toc-nav">{{ .TableOfContents }}</nav>
+    {{ with .TableOfContents }}
+      <nav class="toc-nav">{{ . | safeHTML }}</nav>
     {{ end }}
   </aside>
+
   <article>
+    <div id="introduction" class="toc-sentinel" aria-hidden="true"></div>
+
     {{ .Content }}
-    <div class="footer">© {{ now.Format "2006" }} {{ .Site.Title }}</div>
   </article>
+</main>
 {{ end }}

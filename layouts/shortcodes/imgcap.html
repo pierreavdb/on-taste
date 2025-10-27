@@ -1,0 +1,10 @@
+<figure{{ with .Get "figureclass" }} class="{{ . }}"{{ end }}>
+  {{ $src := .Get "src" }}
+  {{ $alt := .Get "alt" | default "" }}
+  {{ $imgclass := .Get "class" | default "img-full" }}
+  {{ $link := .Get "link" }}
+  {{ if $link }}<a href="{{ $link }}">{{ end }}
+  <img src="{{ $src }}" alt="{{ $alt }}" class="{{ $imgclass }}">
+  {{ if $link }}</a>{{ end }}
+  {{ with .Get "caption" }}<figcaption>{{ . }}</figcaption>{{ end }}
+</figure>
