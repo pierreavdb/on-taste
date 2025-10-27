@@ -299,11 +299,12 @@ thead th{text-align:left;color:#0a0a0a;background:#fafafa;font-weight:600}
 /* Reduce media size on smaller screens */
 @media (max-width:1200px){
   article img,article video,.content img,.content video,img{
-    max-width:80%;
+    max-width:90%;
   }
   article div[style*="padding-bottom"],.content div[style*="padding-bottom"],
   article iframe,.content iframe{
-    max-width:80%;
+    max-width:90%;
+    margin:auto auto;
   }
 }
 
