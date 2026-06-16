@@ -535,6 +535,8 @@ Fourth, and maybe more controversially, **we’ve lost our shared reasons to mak
 
 This way, both individuals and societies can ascend to more refined pleasures. And with refinement, our world becomes larger and more vibrant. **If we care about the well-being of society, we should care about its aesthetic health too.**
 
-## Read more
+<hr>
+
+<p class="read-more-label">Read more</p>
 
 - [Toward a theory of aesthetic valence](https://pierreavdb.substack.com/p/toward-a-theory-of-aesthetic-valence)

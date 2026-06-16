@@ -183,6 +183,16 @@ em{font-style:italic}
 small{font-size:.9em;color:var(--muted)}
 hr{border:0;border-top:1px solid var(--border);margin:2.25rem 0}
 
+.read-more-label{
+  font-family:var(--sans);
+  font-weight:700;
+  font-size:var(--step--1);
+  text-transform:uppercase;
+  letter-spacing:.06em;
+  color:var(--muted);
+  margin:0 0 .6em;
+}
+
 /* Drop cap */
 article>p:first-of-type::first-letter,
 article h2+p::first-letter{
