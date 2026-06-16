@@ -534,3 +534,7 @@ Fourth, and maybe more controversially, **we’ve lost our shared reasons to mak
 **But this erosion is not inevitable.** Importantly, our theory argues that taste can be cultivated. This happens through exposure to complex art, environments of beauty, silence, and patience. The more we practice attending to harmony and subtlety, the more we can strengthen those attractor states. Cultivating taste, in this context, is not so much “elitism” as rehabilitation.
 
 This way, both individuals and societies can ascend to more refined pleasures. And with refinement, our world becomes larger and more vibrant. **If we care about the well-being of society, we should care about its aesthetic health too.**
+
+**Read more**
+
+- [Toward a theory of aesthetic valence](https://pierreavdb.substack.com/p/toward-a-theory-of-aesthetic-valence)
